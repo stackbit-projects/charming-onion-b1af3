@@ -8,7 +8,7 @@ sections:
     content: |
       Here are the availbale items in my shop go ahead and buy me a coffee\
     actions:
-      - label: lorem-ipsum
+      - label: Buy Now
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
