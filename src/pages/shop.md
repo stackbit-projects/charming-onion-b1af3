@@ -14,6 +14,12 @@ sections:
         icon_class: lorem-ipsum
         new_window: false
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
     type: section_hero
   - title: lorem-ipsum
     section_id: lorem-ipsum
