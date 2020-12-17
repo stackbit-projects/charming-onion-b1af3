@@ -5,17 +5,8 @@ excerpt: lorem-ipsum
 sections:
   - title: My shop
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Here are the availbale items in my shop go ahead and buy me a coffee\
     actions: []
     type: section_hero
 template: advanced
